@@ -11,11 +11,11 @@ My added feature to the initial code is that it recognises whether my face (whic
 Run "face_rec.py". If you want to use this script for security purpose, add this to startup applications.
 
 ## Requirements
-cmake
-dlib
-face_recognition
-numpy
-opencv-python
-telegram-cli
-imagemagick
-streamer
+- cmake
+- dlib
+- face_recognition
+- numpy
+- opencv-python
+- telegram-cli
+- imagemagick
+- streamer
