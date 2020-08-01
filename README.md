@@ -17,3 +17,5 @@ face_recognition
 numpy
 opencv-python
 telegram-cli
+imagemagick
+streamer
